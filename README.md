@@ -29,7 +29,7 @@
 - ☕ **Java-focused** Software Engineering Student
 - 💻 **100+ LeetCode** & **350+ CodeChef** Problems Solved
 - 🐳 **Backend Development** with Docker & PostgreSQL
-- 🌱 Currently Learning **Spring Boot** & **System Design**
+- 🌱 Currently Learning **System Design** & **Full Stack Development**
 
 ---
 
@@ -45,18 +45,18 @@ I am a Computer Science and Engineering student from 🇮🇳 **India** focused 
 
 ### 🎯 Currently Learning & Working On
 
-*   ☕ **Data Structures & Algorithms:** Solving placement-focused problem sets in **Java** (HashMap, Array, Two-pointer, Strings).
-*   💻 **Backend Development (Java & Node.js):** Expanding my full-stack skillset using **Java/Spring Boot** and **MERN Stack** (MongoDB, Express, React, Node).
-*   🐳 **Database & DevOps:** Containerizing multi-service platforms using **Docker Compose** and modeling schemas in **PostgreSQL**.
+*   💻 **Full Stack Development:** Building web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+*   ☕ **Java & DSA:** Strengthening problem-solving and interview preparation through **Data Structures & Algorithms in Java**.
+*   🐳 **Backend & DevOps:** Exploring **Docker, PostgreSQL, Linux**, and scalable backend architecture.
 
 ---
 
 ### 🚀 Current Goals
 
-- Build production-ready backend applications using **Java** and **Spring Boot**.
-- Master DSA and system design fundamentals for technical interviews.
-- Contribute to open-source developer tools, CLI utilities, and backend modules.
-- Deploy scalable, cloud-ready applications using **Docker** and **PostgreSQL**.
+- Build production-ready full-stack applications using the **MERN Stack**.
+- Strengthen Java-based **DSA** for coding interviews.
+- Improve backend architecture, databases, **Docker**, and **Linux** skills.
+- Contribute to open-source projects and build scalable web applications.
 
 ---
 
