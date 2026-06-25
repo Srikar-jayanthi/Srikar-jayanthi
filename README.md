@@ -26,7 +26,7 @@
 ## ✨ Highlights
 
 - 🏅 **RHCSA Certified** (Red Hat Certified System Administrator)
-- ☕ **Java-focused** Software Engineering Student
+- ☕ **Full Stack Developer** | Java for DSA
 - 💻 **100+ LeetCode** & **350+ CodeChef** Problems Solved
 - 🐳 **Backend Development** with Docker & PostgreSQL
 - 🌱 Currently Learning **System Design** & **Full Stack Development**
@@ -35,7 +35,7 @@
 
 ### 📖 About Me
 
-I am a Computer Science and Engineering student from 🇮🇳 **India** focused on becoming a Software Development Engineer (SDE). I enjoy building full-stack applications while continuously improving my backend engineering and problem-solving skills. I enjoy understanding how software works under the hood—from algorithms and operating systems to scalable backend services.
+I am a Computer Science and Engineering student from 🇮🇳 **India** focused on becoming a Software Development Engineer (SDE). I enjoy building full-stack applications while continuously improving my backend engineering and problem-solving skills. I'm particularly interested in understanding how software works under the hood—from algorithms and operating systems to scalable backend services.
 
 - 🌐 **Portfolio Website:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
 - 🚀 **Seeking:** Software Engineering Internships (Full Stack / Backend / SDE)
@@ -146,6 +146,7 @@ I hold the following industry-recognized certifications that validate my skills 
 ### 📬 Get In Touch
 
 *   **Portfolio Website:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
+*   **Resume PDF:** [Jayanthi_Srikar_Resume_2026.pdf](https://github.com/Srikar-jayanthi/Srikar-jayanthi/raw/main/Jayanthi_Srikar_Resume_2026.pdf)
 *   **LinkedIn:** [linkedin.com/in/srikar-jayanthi-990253291](https://www.linkedin.com/in/srikar-jayanthi-990253291/)
 *   **Email:** [jayanthisrikar@gmail.com](mailto:jayanthisrikar@gmail.com)
 *   **GitHub Profile:** [github.com/Srikar-jayanthi](https://github.com/Srikar-jayanthi)
