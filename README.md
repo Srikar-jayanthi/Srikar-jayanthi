@@ -99,7 +99,7 @@ I hold the following industry-recognized certifications that validate my skills 
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srikar-jayanthi&theme=flat&column=7&margin-w=15&no-background=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Srikar-jayanthi&theme=flat" alt="GitHub Trophies" />
 </p>
 
 <table align="center" width="100%">
@@ -133,6 +133,10 @@ I hold the following industry-recognized certifications that validate my skills 
 *   **GitHub Profile:** [github.com/Srikar-jayanthi](https://github.com/Srikar-jayanthi)
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srikar-jayanthi/Srikar-jayanthi/output/github-contribution-grid-snake.svg" alt="GitHub Grid Snake" />
+</p>
 
 <p align="center">
   <em>"Building reliable software through clean architecture and continuous learning."</em>
