@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://srikar5-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2A2F35?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://srikar5-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Resume-2A2F35?style=flat-square&logo=cv&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/Srikar-jayanthi/Srikar-jayanthi/raw/main/Jayanthi_Srikar_Resume_2026.pdf"><img src="https://img.shields.io/badge/Resume-2A2F35?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/srikar-jayanthi-990253291/"><img src="https://img.shields.io/badge/LinkedIn-2A2F35?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jayanthisrikar@gmail.com"><img src="https://img.shields.io/badge/Email-2A2F35?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Srikar-jayanthi"><img src="https://img.shields.io/badge/GitHub-2A2F35?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -35,7 +35,7 @@
 
 ### 📖 About Me
 
-I am a Computer Science and Engineering student from 🇮🇳 **India** focused on becoming a Software Development Engineer (SDE). My core focus lies in backend architectures, system design principles, and problem-solving. I aim to build secure, scalable services and clean database systems.
+I am a Computer Science and Engineering student from 🇮🇳 **India** focused on becoming a Software Development Engineer (SDE). My core focus lies in backend architectures, system design principles, and problem-solving. I enjoy understanding how software works under the hood—from algorithms and operating systems to scalable backend services.
 
 - 🌐 **Portfolio Website:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
 - 🚀 **Seeking:** Software Engineering Internships (Full Stack / Backend / SDE)
@@ -87,7 +87,7 @@ I am a Computer Science and Engineering student from 🇮🇳 **India** focused 
 *A peer-to-peer web application designed to bridge the guidance gap and coordinate student doubt clarification.*
 *   **Tech Stack:** `HTML5` | `CSS3` | `JavaScript` | `LocalStorage` | `Netlify`
 *   **Key Implementations:**
-    *   Established client-side session states and role-based views (supporting **2 user roles**) utilizing browser `LocalStorage` persistence.
+    *   Established client-side session states and role-based access for senior and junior users utilizing browser `LocalStorage` persistence.
     *   Designed **4 responsive UI modules** (Home, About, DoubtBox) prioritizing keyboard accessibility and mobile-first layouts.
 *   **Links:** [📂 Web-Project](https://github.com/Srikar-jayanthi/Web-Project) | [🌐 Live Site](https://classy-blini-1ce038.netlify.app/)
 
