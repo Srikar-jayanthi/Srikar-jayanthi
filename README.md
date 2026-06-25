@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <a href="https://srikar5-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2A2F35?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/srikar-jayanthi-990253291/"><img src="https://img.shields.io/badge/LinkedIn-2A2F35?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jayanthisrikar@gmail.com"><img src="https://img.shields.io/badge/Email-2A2F35?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Srikar-jayanthi"><img src="https://img.shields.io/badge/GitHub-2A2F35?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -25,6 +26,7 @@ I bridge the gap between frontend usability and backend performance. During my i
 
 - 📍 **Location:** Rajahmundry, Andhra Pradesh, India (IST / UTC+5:30)
 - 🎓 **Education:** B.Tech in CSE (Batch of 2027)
+- 🌐 **Portfolio:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
 - 🚀 **Seeking:** Software Engineering Internships (Full Stack / Backend)
 - ⚙️ **Key Interests:** API Design, Database Normalization, Containerization, Linux Administration.
 
@@ -117,6 +119,7 @@ I bridge the gap between frontend usability and backend performance. During my i
 
 ### 📬 Get In Touch
 
+*   **Portfolio:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
 *   **Email:** [jayanthisrikar@gmail.com](mailto:jayanthisrikar@gmail.com)
 *   **LinkedIn:** [srikar-jayanthi](https://www.linkedin.com/in/srikar-jayanthi-990253291/)
 *   **GitHub:** [Srikar-jayanthi](https://github.com/Srikar-jayanthi)
