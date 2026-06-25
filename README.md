@@ -110,10 +110,6 @@ I hold the following industry-recognized certifications that validate my skills 
 
 ### 📊 GitHub Activity & Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srikar-jayanthi&theme=flat" alt="GitHub Trophies" />
-</p>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%">
