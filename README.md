@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://srikar5-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2A2F35?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://srikar5-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Resume-2A2F35?style=flat-square&logo=cv&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/srikar-jayanthi-990253291/"><img src="https://img.shields.io/badge/LinkedIn-2A2F35?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jayanthisrikar@gmail.com"><img src="https://img.shields.io/badge/Email-2A2F35?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Srikar-jayanthi"><img src="https://img.shields.io/badge/GitHub-2A2F35?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -19,6 +20,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4B5563&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Backend+Developer;Software+Engineering+Student" alt="Typing Banner" />
 </p>
+
+---
+
+## ✨ Highlights
+
+- 🏅 **RHCSA Certified** (Red Hat Certified System Administrator)
+- ☕ **Java-focused** Software Engineering Student
+- 💻 **100+ LeetCode** & **350+ CodeChef** Problems Solved
+- 🐳 **Backend Development** with Docker & PostgreSQL
+- 🌱 Currently Learning **Spring Boot** & **System Design**
 
 ---
 
@@ -43,33 +54,32 @@ I am a Computer Science and Engineering student from 🇮🇳 **India** focused 
 ### 🚀 Current Goals
 
 - Build production-ready backend applications using **Java** and **Spring Boot**.
-- Strengthen DSA problem-solving and coding efficiency for technical interviews.
-- Master scalable system design fundamentals (Caching, Message Queues, Load Balancing).
+- Master DSA and system design fundamentals for technical interviews.
 - Contribute to open-source developer tools, CLI utilities, and backend modules.
-- Deploy secure, cloud-ready web services using **Docker** and **PostgreSQL**.
+- Deploy scalable, cloud-ready applications using **Docker** and **PostgreSQL**.
 
 ---
 
 ### 🛠️ Technical Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` `C` `Python` `JavaScript (ES6+)` `SQL` |
-| **Backend Development** | `Node.js` `Express.js` `RESTful APIs` `JWT Authentication` |
-| **Frontend Development** | `React.js` `HTML5` `CSS3` `Responsive Web Design` `Flexbox` |
-| **Databases** | `PostgreSQL` (Shared-Schema Multi-Tenancy) `MongoDB` `Oracle Database` |
-| **DevOps & Linux** | `Docker` `Docker Compose` `Linux (Red Hat RHCSA)` `Git` `GitHub` |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,js,html,css,react,nodejs,express,mongodb,postgres,docker,linux,git,vscode" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
-### 📂 Featured Projects (60% Focus)
+### 📂 Featured Projects
+
+⭐ *Check out my pinned repositories below for complete source code, documentation, and live demos.*
 
 #### 1. Multi-Tenant SaaS Platform — Project & Task Management System
 *A scalable, organization-isolated project management tool containerized for reproducible multi-service deployment.*
 *   **Tech Stack:** `React.js` | `Node.js` | `Express.js` | `PostgreSQL` | `Docker` | `JWT`
-*   **Key Architectures:**
+*   **Key Accomplishments:**
     *   Designed a multi-tenant PostgreSQL structure using **shared-schema isolation**, separating data boundaries across different tenant organizations.
-    *   Authored **15+ REST API endpoints** to handle JWT-based session security, user onboarding, and project state lifecycles.
+    *   Implemented **15+ REST API endpoints** to handle JWT-based session security, user onboarding, and project state lifecycles.
     *   Orchestrated database, backend, and frontend environments using **Docker Compose** for seamless containerized execution.
 *   **Repository:** [📂 saas-platform](https://github.com/Srikar-jayanthi/saas-platform)
 
@@ -77,13 +87,13 @@ I am a Computer Science and Engineering student from 🇮🇳 **India** focused 
 *A peer-to-peer web application designed to bridge the guidance gap and coordinate student doubt clarification.*
 *   **Tech Stack:** `HTML5` | `CSS3` | `JavaScript` | `LocalStorage` | `Netlify`
 *   **Key Implementations:**
-    *   Established client-side session states and role-based views (Senior vs. Junior roles) utilizing browser `LocalStorage` persistence.
+    *   Established client-side session states and role-based views (supporting **2 user roles**) utilizing browser `LocalStorage` persistence.
     *   Designed **4 responsive UI modules** (Home, About, DoubtBox) prioritizing keyboard accessibility and mobile-first layouts.
 *   **Links:** [📂 Web-Project](https://github.com/Srikar-jayanthi/Web-Project) | [🌐 Live Site](https://classy-blini-1ce038.netlify.app/)
 
 ---
 
-### 🏆 Problem Solving & Competitive Profiles (20% Focus)
+### 🏆 Problem Solving
 
 *   **LeetCode:** Solved **100+** questions (focused on Arrays, HashMaps, Two-pointers, and Strings). Holds a **50-Day Coding Streak Badge**.  
     👉 [LeetCode Profile](https://leetcode.com/u/jayanthi_srikar/)
@@ -94,7 +104,7 @@ I am a Computer Science and Engineering student from 🇮🇳 **India** focused 
 
 ---
 
-### 📜 Professional Certifications (10% Focus)
+### 📜 Certifications
 
 I hold the following industry-recognized certifications that validate my skills in systems administration, programming foundations, and databases:
 
@@ -141,6 +151,10 @@ I hold the following industry-recognized certifications that validate my skills 
 *   **GitHub Profile:** [github.com/Srikar-jayanthi](https://github.com/Srikar-jayanthi)
 
 ---
+
+<p align="center">
+  💡 <em>I enjoy solving algorithmic problems and building backend systems that are clean, scalable, and maintainable.</em>
+</p>
 
 <p align="center">
   <em>"Building reliable software through clean architecture and continuous learning."</em>
