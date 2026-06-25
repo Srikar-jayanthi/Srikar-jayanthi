@@ -24,29 +24,41 @@
 
 ### 📖 About Me
 
-I am a Computer Science and Engineering student from 🇮🇳 **India**. As an aspiring Software Development Engineer (SDE), my developer philosophy centers around writing clean, modular code, designing structured databases, and organizing deployment environments. I bridge frontend functionality with reliable backend architectures.
+I am a Computer Science and Engineering student from 🇮🇳 **India** focused on becoming a Software Development Engineer (SDE). My core focus lies in backend architectures, system design principles, and problem-solving. I aim to build secure, scalable services and clean database systems.
 
 - 🌐 **Portfolio Website:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
-- 🚀 **Seeking:** Software Engineering Internships (Full Stack / Backend)
-- ⚙️ **Core Focus:** Clean API Design, Database Normalization, Containerized Workflows, Data Structures & Algorithms.
+- 🚀 **Seeking:** Software Engineering Internships (Full Stack / Backend / SDE)
+- ⚙️ **Core Focus:** Java, Data Structures & Algorithms, Backend Engineering, Databases, Linux.
 
 ---
 
 ### 🎯 Currently Learning & Working On
 
-*   ☕ **Data Structures & Algorithms:** Solving problem sets in **Java** (Focusing on Arrays, HashMaps, Two-pointer, and Strings).
-*   💻 **Full Stack Development:** Designing web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
-*   🐳 **Backend & Systems:** Containerizing services with **Docker Compose** and configuring relational schemas in **PostgreSQL**.
+*   ☕ **Data Structures & Algorithms:** Solving placement-focused problem sets in **Java** (HashMap, Array, Two-pointer, Strings).
+*   💻 **Backend Development (Java & Node.js):** Expanding my full-stack skillset using **Java/Spring Boot** and **MERN Stack** (MongoDB, Express, React, Node).
+*   🐳 **Database & DevOps:** Containerizing multi-service platforms using **Docker Compose** and modeling schemas in **PostgreSQL**.
+
+---
+
+### 🚀 Current Goals
+
+- Build production-ready backend applications using **Java** and **Spring Boot**.
+- Strengthen DSA problem-solving and coding efficiency for technical interviews.
+- Master scalable system design fundamentals (Caching, Message Queues, Load Balancing).
+- Contribute to open-source developer tools, CLI utilities, and backend modules.
+- Deploy secure, cloud-ready web services using **Docker** and **PostgreSQL**.
 
 ---
 
 ### 🛠️ Technical Toolbox
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,js,html,css,react,nodejs,express,mongodb,postgres,docker,linux,git,vscode" alt="My Skills" />
-  </a>
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `C` `Python` `JavaScript (ES6+)` `SQL` |
+| **Backend Development** | `Node.js` `Express.js` `RESTful APIs` `JWT Authentication` |
+| **Frontend Development** | `React.js` `HTML5` `CSS3` `Responsive Web Design` `Flexbox` |
+| **Databases** | `PostgreSQL` (Shared-Schema Multi-Tenancy) `MongoDB` `Oracle Database` |
+| **DevOps & Linux** | `Docker` `Docker Compose` `Linux (Red Hat RHCSA)` `Git` `GitHub` |
 
 ---
 
@@ -133,10 +145,6 @@ I hold the following industry-recognized certifications that validate my skills 
 *   **GitHub Profile:** [github.com/Srikar-jayanthi](https://github.com/Srikar-jayanthi)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Srikar-jayanthi/Srikar-jayanthi/output/github-contribution-grid-snake.svg" alt="GitHub Grid Snake" />
-</p>
 
 <p align="center">
   <em>"Building reliable software through clean architecture and continuous learning."</em>
