@@ -1,6 +1,10 @@
 # <p align="center">Jayanthi Srikar</p>
 <p align="center">
-  <strong>Full Stack Developer | Backend Systems Enthusiast | Computer Science Undergrad</strong>
+  <strong>Full Stack Developer | Backend Developer | Software Engineering Student</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srikar-jayanthi&color=4b5563&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -13,85 +17,95 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4B5563&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Backend+System+Architect;RHCSA+Certified+Admin;MongoDB+Developer" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4B5563&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Backend+Developer;Software+Engineering+Student" alt="Typing Banner" />
 </p>
 
 ---
 
-### 📖 Profile Summary
+### 📖 About Me
 
-I am a Computer Science and Engineering undergraduate at **Aditya College of Engineering and Technology** (expected graduation 2027, current CGPA: **8.4/10**). As an aspiring software engineer, I focus on building robust backend systems, designing clean database schemas, and setting up containerized environments. 
+I am a Computer Science and Engineering student from 🇮🇳 **India**. As an aspiring Software Development Engineer (SDE), my developer philosophy centers around writing clean, modular code, designing structured databases, and organizing deployment environments. I bridge frontend functionality with reliable backend architectures.
 
-I bridge the gap between frontend usability and backend performance. During my internship at Technical Hub Pvt. Ltd., I engineered responsive, accessible UI modules using semantic layouts. In my personal projects, I design scalable, multi-tenant databases using PostgreSQL and secure them with JWT authentication. With certifications in **Red Hat Linux Administration (RHCSA)** and **MongoDB**, I combine system-level knowledge and modern database patterns to build reliable developer workflows.
-
-- 📍 **Location:** Rajahmundry, Andhra Pradesh, India (IST / UTC+5:30)
-- 🎓 **Education:** B.Tech in CSE (Batch of 2027)
-- 🌐 **Portfolio:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
+- 🌐 **Portfolio Website:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
 - 🚀 **Seeking:** Software Engineering Internships (Full Stack / Backend)
-- ⚙️ **Key Interests:** API Design, Database Normalization, Containerization, Linux Administration.
+- ⚙️ **Core Focus:** Clean API Design, Database Normalization, Containerized Workflows, Data Structures & Algorithms.
+
+---
+
+### 🎯 Currently Learning & Working On
+
+*   ☕ **Data Structures & Algorithms:** Solving problem sets in **Java** (Focusing on Arrays, HashMaps, Two-pointer, and Strings).
+*   💻 **Full Stack Development:** Designing web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+*   🐳 **Backend & Systems:** Containerizing services with **Docker Compose** and configuring relational schemas in **PostgreSQL**.
 
 ---
 
 ### 🛠️ Technical Toolbox
 
-#### **Programming Languages**
-<img src="https://img.shields.io/badge/C-2A2F35?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Java-2A2F35?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-2A2F35?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-2A2F35?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-2A2F35?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-
-#### **Frontend & Backend Engineering**
-<img src="https://img.shields.io/badge/HTML5-2A2F35?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-2A2F35?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/React.js-2A2F35?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Node.js-2A2F35?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" /> <img src="https://img.shields.io/badge/Express.js-2A2F35?style=flat-square&logo=express&logoColor=white" alt="Express" />
-
-#### **Databases & DevOps**
-<img src="https://img.shields.io/badge/PostgreSQL-2A2F35?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-2A2F35?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Oracle-2A2F35?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" /> <img src="https://img.shields.io/badge/Docker-2A2F35?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-2A2F35?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Git-2A2F35?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-2A2F35?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,js,html,css,react,nodejs,express,mongodb,postgres,docker,linux,git,vscode" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
-### 💼 Technical Experience
-
-**Frontend Development Intern** | *Technical Hub Pvt. Ltd.* (May 2025 — Jun 2025)
-*   **Structured Markup:** Developed 5+ structured, accessible web pages using semantic HTML, improving frontend UI consistency and codebase maintainability.
-*   **Responsive Styling:** Built responsive grid and Flexbox layouts across 5+ layouts, optimizing viewport support across 3+ screen breakpoints (mobile, tablet, desktop).
-*   **Reusable Layouts:** Constructed reusable CSS UI components, eliminating styling duplication and boosting frontend performance.
-*   [📄 Verification Certificate](https://drive.google.com/file/d/1NafiXaJ1mMeo44aejblyE2nqMkwG1fcO/view?usp=sharing)
-
----
-
-### 📁 Technical Projects
+### 📂 Featured Projects (60% Focus)
 
 #### 1. Multi-Tenant SaaS Platform — Project & Task Management System
-*A containerized SaaS application designed for tenant-isolated organization workflows.*
+*A scalable, organization-isolated project management tool containerized for reproducible multi-service deployment.*
 *   **Tech Stack:** `React.js` | `Node.js` | `Express.js` | `PostgreSQL` | `Docker` | `JWT`
 *   **Key Architectures:**
-    *   Designed a multi-tenant database schema in PostgreSQL utilizing **shared-schema isolation** to ensure clean tenant boundary separation.
-    *   Developed **15+ REST API endpoints** managing secure user onboarding, session tokens (JWT), and project task life cycles.
-    *   Orchestrated backend database and frontend services using **Docker Compose**, building a reproducible local development environment.
-*   **Source:** [📂 GitHub Repository](https://github.com/Srikar-jayanthi/saas-platform)
+    *   Designed a multi-tenant PostgreSQL structure using **shared-schema isolation**, separating data boundaries across different tenant organizations.
+    *   Authored **15+ REST API endpoints** to handle JWT-based session security, user onboarding, and project state lifecycles.
+    *   Orchestrated database, backend, and frontend environments using **Docker Compose** for seamless containerized execution.
+*   **Repository:** [📂 saas-platform](https://github.com/Srikar-jayanthi/saas-platform)
 
 #### 2. SJ Connect — Senior-Junior Interaction Platform
-*A web application built to streamline peer Q&A and academic resource sharing.*
-*   **Tech Stack:** `HTML` | `CSS` | `JavaScript` | `LocalStorage` | `Netlify`
+*A peer-to-peer web application designed to bridge the guidance gap and coordinate student doubt clarification.*
+*   **Tech Stack:** `HTML5` | `CSS3` | `JavaScript` | `LocalStorage` | `Netlify`
 *   **Key Implementations:**
-    *   Established client-side authorization and state persistence using `LocalStorage`, supporting session retention for distinct user roles.
-    *   Designed and structured **4 responsive UI modules** (Home, About, DoubtBox) improving layout accessibility and discoverability.
-*   **Links:** [📂 GitHub Repository](https://github.com/Srikar-jayanthi/Web-Project) | [🌐 Live Site](https://classy-blini-1ce038.netlify.app/)
+    *   Established client-side session states and role-based views (Senior vs. Junior roles) utilizing browser `LocalStorage` persistence.
+    *   Designed **4 responsive UI modules** (Home, About, DoubtBox) prioritizing keyboard accessibility and mobile-first layouts.
+*   **Links:** [📂 Web-Project](https://github.com/Srikar-jayanthi/Web-Project) | [🌐 Live Site](https://classy-blini-1ce038.netlify.app/)
 
 ---
 
-### 📜 Industry Certifications
+### 🏆 Problem Solving & Competitive Profiles (20% Focus)
 
-*   🔴 **Red Hat Certified System Administrator (RHCSA)** — Red Hat | [Credential](https://www.credly.com/badges/23484bdc-2ead-4aa2-a75e-73c22e0017c5/public_url)
-*   🟢 **MongoDB Associate Developer Certification** — MongoDB | [Credential](https://www.credly.com/badges/f6d42bff-c13f-4831-996c-a87abbd42f5a/public_url)
-*   🔴 **Oracle Certified Database Foundations Associate** — Oracle | [Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3797AD706547F0C1C0A834F3B5A773524B92A09FD1498B0419BE6F4304594059)
-*   🔵 **GitHub Foundations Certification** — Microsoft | [Credential](https://learn.microsoft.com/users/jayanthisrikar-2239/credentials/d1ce3ddae4a11f81)
-*   🔴 **Oracle Certified Java Foundations Associate** — Oracle | [Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8178484A1DB77CB70AEC4FF9C540B6B3D812E0110775111F2118082EC682244D)
+*   **LeetCode:** Solved **100+** questions (focused on Arrays, HashMaps, Two-pointers, and Strings). Holds a **50-Day Coding Streak Badge**.  
+    👉 [LeetCode Profile](https://leetcode.com/u/jayanthi_srikar/)
+*   **CodeChef:** Rating **1155** | Solved **350+** problems across **41+ rated contests**.  
+    👉 [CodeChef Profile](https://www.codechef.com/users/srikarjayanthi)
+*   **HackerRank:** Achieved **3 Stars** in Java, Python, SQL, and C, and **2 Stars** in JavaScript.  
+    👉 [HackerRank Profile](https://www.hackerrank.com/profile/jayanthisrikar)
 
 ---
 
-### 📊 GitHub & Problem Solving Metrics
+### 📜 Professional Certifications (10% Focus)
+
+I hold the following industry-recognized certifications that validate my skills in systems administration, programming foundations, and databases:
+
+| Certification | Issuer | Verification |
+| :--- | :--- | :---: |
+| **Red Hat Certified System Administrator (RHCSA)** | Red Hat | [Verify Badge](https://www.credly.com/badges/23484bdc-2ead-4aa2-a75e-73c22e0017c5/public_url) |
+| **MongoDB Associate Developer** | MongoDB | [Verify Badge](https://www.credly.com/badges/f6d42bff-c13f-4831-996c-a87abbd42f5a/public_url) |
+| **Oracle Certified Database Foundations Associate** | Oracle | [Verify Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3797AD706547F0C1C0A834F3B5A773524B92A09FD1498B0419BE6F4304594059) |
+| **GitHub Foundations Certification** | Microsoft | [Verify Badge](https://learn.microsoft.com/users/jayanthisrikar-2239/credentials/d1ce3ddae4a11f81) |
+| **Oracle Certified Java Foundations Associate** | Oracle | [Verify Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8178484A1DB77CB70AEC4FF9C540B6B3D812E0110775111F2118082EC682244D) |
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srikar-jayanthi&theme=flat&column=7&margin-w=15&no-background=true" alt="GitHub Trophies" />
+</p>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Srikar-jayanthi&show_icons=true&theme=github_dark&hide_border=false&count_private=true" width="100%" alt="GitHub Profile Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Srikar-jayanthi&show_icons=true&theme=github_dark&hide_border=false&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar-jayanthi&layout=compact&theme=github_dark&hide_border=false" width="100%" alt="Top Languages Chart" />
@@ -99,27 +113,27 @@ I bridge the gap between frontend usability and backend performance. During my i
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikar-jayanthi&theme=github_dark&hide_border=false" width="100%" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikar-jayanthi&theme=github_dark&hide_border=false" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srikar-jayanthi&theme=github-dark&hide_border=false" width="100%" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
-
-*   **LeetCode:** Solved **100+** DSA questions (HashMap, Array, Two-pointer) with a **50-Day Coding Streak Badge**. [Profile](https://leetcode.com/u/jayanthi_srikar/)
-*   **CodeChef:** Rating **1155** | Solved **350+** problems across **41+ rated contests**. [Profile](https://www.codechef.com/users/srikarjayanthi)
-*   **HackerRank:** **3 Stars** in Java, Python, SQL, C; **2 Stars** in JavaScript. [Profile](https://www.hackerrank.com/profile/jayanthisrikar)
-
----
-
-### 🤝 Open Source & System Goals
-
-*   **Open Source:** Looking to contribute to Node.js/Express.js helper packages, database adapters, and CLI development.
-*   **Focus Areas:** Studying horizontal system scaling, caching frameworks (Redis), message brokering, and container clustering using Kubernetes.
 
 ---
 
 ### 📬 Get In Touch
 
-*   **Portfolio:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
+*   **Portfolio Website:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
+*   **LinkedIn:** [linkedin.com/in/srikar-jayanthi-990253291](https://www.linkedin.com/in/srikar-jayanthi-990253291/)
 *   **Email:** [jayanthisrikar@gmail.com](mailto:jayanthisrikar@gmail.com)
-*   **LinkedIn:** [srikar-jayanthi](https://www.linkedin.com/in/srikar-jayanthi-990253291/)
-*   **GitHub:** [Srikar-jayanthi](https://github.com/Srikar-jayanthi)
+*   **GitHub Profile:** [github.com/Srikar-jayanthi](https://github.com/Srikar-jayanthi)
+
+---
+
+<p align="center">
+  <em>"Building reliable software through clean architecture and continuous learning."</em>
+</p>
