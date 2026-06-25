@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4B5563&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Backend+Developer;Software+Engineering+Student" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4B5563&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Backend+Developer;Software+Engineering+Student" alt="Typing Banner" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ I am a Computer Science and Engineering student from 🇮🇳 **India** focused 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,js,html,css,react,nodejs,express,mongodb,postgres,docker,linux,git,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,js,html,css,react,nodejs,express,mongodb,postgres,docker,linux,git,github,vscode" alt="My Skills" />
   </a>
 </p>
 
