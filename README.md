@@ -35,11 +35,11 @@
 
 ### 📖 About Me
 
-I am a Computer Science and Engineering student from 🇮🇳 **India** focused on becoming a Software Development Engineer (SDE). My core focus lies in backend architectures, system design principles, and problem-solving. I enjoy understanding how software works under the hood—from algorithms and operating systems to scalable backend services.
+I am a Computer Science and Engineering student from 🇮🇳 **India** focused on becoming a Software Development Engineer (SDE). I enjoy building full-stack applications while continuously improving my backend engineering and problem-solving skills. I enjoy understanding how software works under the hood—from algorithms and operating systems to scalable backend services.
 
 - 🌐 **Portfolio Website:** [srikar5-portfolio.vercel.app](https://srikar5-portfolio.vercel.app/)
 - 🚀 **Seeking:** Software Engineering Internships (Full Stack / Backend / SDE)
-- ⚙️ **Core Focus:** Java, Data Structures & Algorithms, Backend Engineering, Databases, Linux.
+- ⚙️ **Core Focus:** MERN Stack, Java (DSA), Backend Engineering, Databases, Linux.
 
 ---
 
@@ -151,10 +151,6 @@ I hold the following industry-recognized certifications that validate my skills 
 *   **GitHub Profile:** [github.com/Srikar-jayanthi](https://github.com/Srikar-jayanthi)
 
 ---
-
-<p align="center">
-  💡 <em>I enjoy solving algorithmic problems and building backend systems that are clean, scalable, and maintainable.</em>
-</p>
 
 <p align="center">
   <em>"Building reliable software through clean architecture and continuous learning."</em>
